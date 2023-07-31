@@ -1,2 +1,4 @@
 # chatgpt
-simple chatgpt using langchain and chainlit
+
+Created simple ChatGPT using HuggingFaceHub, langchain and chainlit.
+
