@@ -1,6 +1,7 @@
 **Project: Chat-GPT**
 
 Packages: Langchain, chainlit
+
 LLM model: falcon-7b from Huggingfacehub
 
 *************************************************************************************************
